@@ -1,0 +1,10 @@
+# Compiled class
+*.class
+
+*.log
+
+# Idea props
+.idea/
+*iml
+
+/target/
